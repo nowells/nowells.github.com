@@ -2,17 +2,17 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://nowells.github.com
+title: Random Thoughts
+subtitle: Technical and Personal ramblings
+author: Nowell Strite
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: nowell@strite.org
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -28,7 +28,7 @@ plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
 markdown: rdiscount
-pygments: false
+pygments: true
 
 paginate: 10 # Posts per page on the blog index
 recent_posts: 5 # Posts in the sidebar Recent Posts section
@@ -48,11 +48,11 @@ default_asides: [asides/recent_posts.html, asides/twitter.html, asides/delicious
 # ----------------------- #
 
 # Twitter
-twitter_user:
+twitter_user: nowells
 twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_show_replies: true
 twitter_follow_button: true
-twitter_show_follower_count: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google Plus
@@ -64,7 +64,7 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
+delicious_user: nowell.strite
 delicious_count: 3
 
 # Disqus Comments
