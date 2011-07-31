@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://nowells.github.com/atom.xml" rel="self"/>
+  <link href="http://nowells.github.com/"/>
+  <updated>2011-07-31T17:44:01-04:00</updated>
+  <id>http://nowells.github.com/</id>
+  <author>
+    <name>Nowell Strite</name>
+    
+      <email>nowell@strite.org</email>
+    
+  </author>
+
+  
+</feed>
