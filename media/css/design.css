@@ -1,0 +1,170 @@
+#container {
+    background-color: #EBEBEB;
+}
+
+#main {
+    background-color: #4F667C;
+}
+
+#splash {
+    background: url("../images/splash-bg.png") repeat scroll 0 0 transparent;
+    min-width: 960px;
+}
+
+#splash .gradient {
+    background-image: -moz-linear-gradient(transparent, rgba(0, 0, 0, 0.2));
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .2)));
+}
+
+#splash #logo {
+    background: url("../images/dog_head.png") no-repeat scroll right top transparent;
+    min-height: 300px;
+}
+
+#splash h1 {
+    font-size: 450%;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 1);
+}
+
+#splash h2 {
+    font-size: 150%;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 1);
+}
+
+#splash #identity {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+#splash #interests {
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+#splash #interests ul {
+}
+
+#splash #interests ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+}
+
+#splash #resume {
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: 150%;
+    padding-bottom: 20px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+}
+
+#splash #resume a {
+    font-weight: bold;
+}
+
+#splash a, #splash a:active, #splash a:visited {
+    color: #993333;
+}
+
+#splash a:hover {
+    color: #5F1F1F;
+}
+
+#main a, #main a:active, #main a:visited {
+    color: #91A5B9;
+}
+
+#main a:hover {
+    color: #728CA5;
+}
+
+#about {
+    background: url("../images/about-bg.png") repeat scroll 0 0 transparent;
+    font-family: 'HUL',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    min-width: 960px;
+}
+
+#about .gradient {
+    background-image: -moz-linear-gradient(transparent, rgba(0, 0, 0, 0.1));
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .1)));
+    min-height: 400px;
+}
+
+#about .content {
+    margin: 0 auto;
+    width: 940px;
+    position: relative;
+    padding: 0 10px;
+}
+
+#about .content h1 {
+    line-height: 200%;
+    font-size: 400%;
+    opacity: 0.5;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.05);
+    color: #1A1A1A;
+    margin-top: 20px;
+}
+
+.shadow {
+    background-image: -moz-linear-gradient(rgba(0, 0, 0, 0.2), transparent);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0)));
+    height: 10px;
+}
+
+p {
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+    color: #EBEBEB;
+    font-size: 200%;
+    line-height: 150%;
+    margin-bottom: 20px;
+}
+
+#about .seperator {
+    background: url("../images/seperator.png") no-repeat scroll center center transparent;
+    height: 78px;
+    margin-top: 80px;
+}
+
+.lifestream {
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+    color: #EBEBEB;
+    font-size: 150%;
+    line-height: 150%;
+    margin-top: 40px;
+}
+
+.lifestream p {
+    font-size: 100%;
+}
+
+.lifestream h2 {
+    opacity: 0.5;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.05);
+    color: #1A1A1A;
+    font-size: 200%;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.lifestream .date {
+    margin-bottom: 40px;
+}
+
+.lifestream .date .item {
+  margin-bottom: 10px;
+}
+
+.lifestream .date .item .source {
+  position: absolute;
+  left: 30px;
+  width: 32px;
+}
+
+.lifestream .date .item .entry {
+  margin-left: 60px;
+  min-height: 32px;
+}
