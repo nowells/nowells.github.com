@@ -1,0 +1,147 @@
+.content h1 {
+  border-bottom: 1px #ddd solid;
+  padding-bottom: .2em;
+  margin-bottom: .1em;
+  margin-top: 1em;
+}
+.content h2 {
+  border-bottom: 1px #eee solid;
+  padding-bottom: .2em;
+  margin-bottom: .1em;
+  margin-top: 1em;
+}
+/*
+ * SIDEBAR
+ */
+.sidebar {
+  padding-left: 0;
+  padding-right: 0;
+}
+@media (min-width: 992px) {
+  .sidebar {
+    padding-left: 0;
+    padding-right: 15px;
+  }
+}
+.sidebar header {
+  padding: 1em;
+  background: rgb(55, 83, 168);
+  color: #fff;
+}
+@media (min-width: 992px) {
+  .sidebar header {
+    position: absolute;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+  }
+}
+.header {
+  text-align: right;
+}
+.brand-title, .brand-tagline {
+  margin: 0;
+}
+.brand-title {
+  text-transform: uppercase;
+}
+.brand-tagline {
+  font-weight: 300;
+  color: rgb(187, 187, 240);
+}
+.icon {
+  margin-right: .3em;
+}
+.pandoc {
+    display: none;
+}
+
+/*
+ * ABOUT
+ */
+.post-avatar {
+    float: right;
+    width: 110px;
+    height: 110px;
+    background-image: url(../img/nowell.jpeg);
+    margin: 1em;
+}
+/*
+ * POST CATEGORIES
+ * Used to classify work experience
+ */
+.post-category {
+  margin: 0 0.1em;
+  padding: 0.3em 1em;
+  color: #fff;
+  background: #999;
+  font-size: 80%;
+  text-decoration: none;
+  white-space: nowrap;
+  line-height: 2.5em;
+}
+.post-category-clientside {
+  background: #5aba59;
+}
+.post-category-devops {
+  background: #4d85d1;
+}
+.post-category-serverside {
+  background: #df2d4f;
+}
+.post-category-other {
+  background: #8156a7;
+}
+
+/*
+ * SKILLSETS
+ */
+.pricing-table-header strong {
+    display: block;
+    border-bottom: 1px #eee solid;
+    padding-bottom: .2em;
+    margin-bottom: .1em;
+    margin-top: 1em;
+    font-size: 32px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+.pricing-table-header .post-meta {
+    display: block;
+}
+#skillset .row .pricing-table-header {
+  background: rgb(55, 83, 168);
+  color: #fff;
+  text-align: center;
+  margin-bottom: 1em;
+  padding: 2em;
+  padding-top: .01em;
+}
+.skills {
+  display: block;
+}
+
+/*
+ * LIGHTBOX
+ * To facilitate pandadoc not rendering these "links" as in other markups
+ * we switch all non-external links to use spans with this class
+ */
+span[data-toggle="lightbox"] {
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(142, 142, 214);
+}
+span[data-toggle="lightbox"]:hover, span[data-toggle="lightbox"]:focus {
+  text-decoration: underline;
+}
+.content {
+    padding-bottom: 2em;
+}
+footer {
+    margin-top: 2em;
+    border-top: 2px #ddd dashed;
+}
+footer .post {
+    padding-top: 2em;
+}

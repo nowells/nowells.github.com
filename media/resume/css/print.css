@@ -1,0 +1,54 @@
+html {
+    font-size: 30%;
+}
+body {
+    font-size: 10px;
+}
+h1 { font-size: 28.5px; }
+h2 { font-size: 24px; }
+h3 { font-size: 18px; }
+h4 { font-size: 13.5px; }
+
+span[data-toggle="lightbox"] {
+    cursor: none;
+    text-decoration: none;
+    color: #000;
+}
+
+#skillset .row .pricing-table-header {
+    text-align: left;
+    margin: 0;
+    margin-bottom: 1em;
+    padding: 0;
+    background: #fff;
+    color: #000;
+}
+.pricing-table-header strong {
+    display: inline;
+    border: 0;
+    padding: 0;
+    font-size: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    line-height: 1.428571429;
+}
+.pricing-table-header .post-meta {
+    display: inline;
+}
+.pricing-table-header .post-category {
+    padding: 0;
+    margin: 0;
+    font-size: 10px;
+    line-height: 1.428571429;
+}
+.pricing-table-header .pandoc {
+    display: inline;
+}
+.btn {
+    font-size: 90%;
+    border: 0;
+    padding: 0;
+}
+.pricing-table-header {
+    min-height: 0 !important;
+}
