@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/nowells
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nowell.strite.org
+  exit
+  * I am nowells (https://keybase.io/nowells) on keybase.
+  * I have a public key with fingerprint 824F 1285 94B7 C4E3 2B7C  5CE6 8FBD 1246 D603 B08B
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "824f128594b7c4e32b7c5ce68fbd1246d603b08b",
+            "host": "keybase.io",
+            "key_id": "8FBD1246D603B08B",
+            "uid": "6862f725f499c8581b78c10ff23ea500",
+            "username": "nowells"
+        },
+        "service": {
+            "hostname": "nowell.strite.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1398729541,
+    "expire_in": 157680000,
+    "prev": "432f3c13e1686008a4c31da1552c61196c906ae72fc0aad8ee2789b180a18798",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.15 (Darwin)
+
+owGbwMvMwMRYNeeB0L7CyzaMpw98TWIIjnvtWq2UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslCyMTNIMjSxMLU2SzJNNUo2NgJRpcqqZRVpSiqGRiVmKmYFxkoFFkpKO
+UkZ+MUgH0JikxOJUvcx8oBiQE5+ZAjLHzckFpN4FqN7JwMIJKFcKljCzMDNKMzcy
+TTOxtEy2MLUwTDK3SDY0SEszMk5NNDUwACksTi3KS8xNBarOyy9PzckpVqrVUQIK
+lmUmp4KcDLIZRYFecUlRZkmqXn5ROlB/QVF+SX5yfg5QOqOkpMAKpLuksgCkvDw1
+KR5qUHxSZl4K0O9ADWWpRcWZ+XlKVoZAlcklmSCTDY0tLcyNLE1NDHWUUisKMotS
+4zNBKkzNzSwMgABkTWoZ0EgTY6M042RD41RDoNcMDCwSTZKNDVMSDU1NjZLNDA0t
+zZItDcwSU82N0pINEhNTLFJTjcwtLJMMLQwSDS3MLS2UQF4rzMtXsjIGOjMxHWhk
+cWZ6XmJJaVGqUm0nkwwLAyMTAxsrEyj2GLg4BWBx+nC5AEOrY5tnrOmXm/+zduef
+uaQ4LeGR0Ky/HpVyV5o70vtLUz/tYJz9+P2D1XFvzTZKSB06mVChZ8V/4o3znamS
+2wSmznC8bDFh+nyha4l5c9bqbjN1/Tflvv7Gx7GeJy/+mFTI/eRb/aOrCxfaayYe
+3fs++2z6tTOT4xzuaXfnRhW5WWeK7LlX4pq9SeGgCn+Dd9Z8ObfXjR/WlP3u9XvV
+coUhcO/W7/tFf2QwGAsK7Mo4Uz5Jm597a/Je50kv53HunRnXtKEteNtr1+fvkvcs
+Wtcg2hensvmYHkNSqtALdU6mgoK6B9s/XJ49Y6eOUd+W2tMhy2a5mB7/FxEaYf5W
+LXPqe79Ap3MhPXbVKoWLNHKkX7U+aJ8SdOjCI7tux7N6kV7J+xVFvdPumkrsunZm
+/1/XDclms148jJEJnSI/6ebOw3aWp1865h0r1b5nyGm7xMMjblr0u4BVRu+nc0aZ
+vJq74vdGN9/qONOkE584nRd0qWcvOTfv1qn8a3sivwRdq3VZZpv8Y70Q+4F3335t
+tCpmuOz4pGDFsz3ej3q+zi/PWFp7wKRg3dJlzw+0XpdTtpLWfeKup5nyXv2D9ctf
+ammBk0vW/ppxIfOZ+MMji7/3eSV4zXw1RfZh2Ya91zOOvxN8KJftZqz1/Zt0EdvM
+1Qk/tH8sPihVdPcXb+7X4C3CxrvOnD3df+2lQ4trHz/Htye2jy60LZ+SzSTh55/q
+CgA=
+=qGku
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nowells
+
+==================================================================
